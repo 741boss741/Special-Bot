@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("545555340050300929")
 setInterval(function() {
-channel.send(`boss boss boss boss boss `);
+channel.send(` لا اله الا الله لا اله الا الله لا الله  الا الله`);
 }, 30)
 })
 
